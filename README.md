@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreinicasov1&theme=tokyonight" width="100%" />
+
+</div>
+
  <p align="center"> Hi 👋, I'm Andrei NIcasov </p>
 
 **Sunt student la Universitatea Tehnică a Moldovei (UTM), specializat în Securitatea Informațională**
@@ -11,18 +16,6 @@
   **Securitatea Informațională, protecția sistemelor, rețelelor și datelor împotriva atacurilor cibernetice**
 
 - 📫 How to reach me **andrinicasov@gmail.com**
-
-- 👨‍💻 All of my projects are available at  
-  **http://andreinicasov.online/**
-
-- 📝 I regularly write articles on  
-  **http://andreinicasov.online/**
-
-- 📄 Know about my experiences  
-  **http://andreinicasov.online/**
-
----
-
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -59,16 +52,7 @@
 </picture>
 </div>
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=tokyonight" width="100%" />
-<img src="https://raw.githubusercontent.com/zyh3699/zyh3699/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
 
----
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreinicasov1&theme=tokyonight" width="100%" />
-<img src="https://raw.githubusercontent.com/andreinicasov1/andreinicasov1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
 
 ---

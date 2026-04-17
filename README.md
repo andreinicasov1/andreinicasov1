@@ -1,14 +1,4 @@
-# Hi 👋, I'm Andrei NIcasov
-
-
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andreinicasov1" alt="andreinicasov1" />
-  </a> 
-</p>
-
----
+ <p align="center"> Hi 👋, I'm Andrei NIcasov </p>
 
 - 🔭 I'm currently working on **Sunt student la Universitatea Tehnică a Moldovei (UTM), specializat în Securitatea Informațională**
 

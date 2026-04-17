@@ -1,6 +1,6 @@
  <p align="center"> Hi 👋, I'm Andrei NIcasov </p>
 
-- 🔭 I'm currently working on **Sunt student la Universitatea Tehnică a Moldovei (UTM), specializat în Securitatea Informațională**
+**Sunt student la Universitatea Tehnică a Moldovei (UTM), specializat în Securitatea Informațională**
 
 - 🌱 I'm currently learning  
   **Python, JavaScript, Java, C / C++, C#, PHP, SQL**
@@ -23,9 +23,9 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/andreinicasov1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
   </a>
@@ -49,7 +49,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,css,go,html,java,js,mysql,nodejs,react,ts" />

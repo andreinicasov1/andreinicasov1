@@ -51,7 +51,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,css,go,html,java,js,mysql,nodejs,react,ts" />
 </p>
 

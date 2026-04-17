@@ -3,7 +3,7 @@
 
 </div>
 
- <p align="center"> Hi 👋, I'm Andrei NIcasov </p>
+ <h1 align="center"> Hi 👋, I'm Andrei NIcasov </h1>
 
 **Sunt student la Universitatea Tehnică a Moldovei (UTM), specializat în Securitatea Informațională**
 

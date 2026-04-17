@@ -23,31 +23,6 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://github.com/andreinicasov1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-  </a>
-  
-  <a href="https://fb.com/Andrei NIcasov" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
-  
-  <a href="https://instagram.com/andrusha_do" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  
-  <a href="https://twitter.com/andreinicasov" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-  
-  <a href="https://youtube.com/gamblblox" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
 
 <h3 align="center">Languages and Tools:</h3>
 

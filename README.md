@@ -65,3 +65,10 @@
 </div>
 
 ---
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreinicasov1&theme=tokyonight" width="100%" />
+<img src="https://raw.githubusercontent.com/andreinicasov1/andreinicasov1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+---
